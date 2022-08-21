@@ -1,0 +1,15 @@
+/Users/poborskaya/Desktop/DZ_C#/HT2_sem4/bin/Debug/net6.0/HT2_sem4
+/Users/poborskaya/Desktop/DZ_C#/HT2_sem4/bin/Debug/net6.0/HT2_sem4.deps.json
+/Users/poborskaya/Desktop/DZ_C#/HT2_sem4/bin/Debug/net6.0/HT2_sem4.runtimeconfig.json
+/Users/poborskaya/Desktop/DZ_C#/HT2_sem4/bin/Debug/net6.0/HT2_sem4.dll
+/Users/poborskaya/Desktop/DZ_C#/HT2_sem4/bin/Debug/net6.0/HT2_sem4.pdb
+/Users/poborskaya/Desktop/DZ_C#/HT2_sem4/obj/Debug/net6.0/HT2_sem4.csproj.AssemblyReference.cache
+/Users/poborskaya/Desktop/DZ_C#/HT2_sem4/obj/Debug/net6.0/HT2_sem4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/poborskaya/Desktop/DZ_C#/HT2_sem4/obj/Debug/net6.0/HT2_sem4.AssemblyInfoInputs.cache
+/Users/poborskaya/Desktop/DZ_C#/HT2_sem4/obj/Debug/net6.0/HT2_sem4.AssemblyInfo.cs
+/Users/poborskaya/Desktop/DZ_C#/HT2_sem4/obj/Debug/net6.0/HT2_sem4.csproj.CoreCompileInputs.cache
+/Users/poborskaya/Desktop/DZ_C#/HT2_sem4/obj/Debug/net6.0/HT2_sem4.dll
+/Users/poborskaya/Desktop/DZ_C#/HT2_sem4/obj/Debug/net6.0/refint/HT2_sem4.dll
+/Users/poborskaya/Desktop/DZ_C#/HT2_sem4/obj/Debug/net6.0/HT2_sem4.pdb
+/Users/poborskaya/Desktop/DZ_C#/HT2_sem4/obj/Debug/net6.0/HT2_sem4.genruntimeconfig.cache
+/Users/poborskaya/Desktop/DZ_C#/HT2_sem4/obj/Debug/net6.0/ref/HT2_sem4.dll
