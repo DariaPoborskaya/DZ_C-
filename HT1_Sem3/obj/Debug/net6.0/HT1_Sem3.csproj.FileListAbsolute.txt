@@ -1,0 +1,15 @@
+/Users/poborskaya/Desktop/DZ_C#/HT1_Sem3/bin/Debug/net6.0/HT1_Sem3
+/Users/poborskaya/Desktop/DZ_C#/HT1_Sem3/bin/Debug/net6.0/HT1_Sem3.deps.json
+/Users/poborskaya/Desktop/DZ_C#/HT1_Sem3/bin/Debug/net6.0/HT1_Sem3.runtimeconfig.json
+/Users/poborskaya/Desktop/DZ_C#/HT1_Sem3/bin/Debug/net6.0/HT1_Sem3.dll
+/Users/poborskaya/Desktop/DZ_C#/HT1_Sem3/bin/Debug/net6.0/HT1_Sem3.pdb
+/Users/poborskaya/Desktop/DZ_C#/HT1_Sem3/obj/Debug/net6.0/HT1_Sem3.csproj.AssemblyReference.cache
+/Users/poborskaya/Desktop/DZ_C#/HT1_Sem3/obj/Debug/net6.0/HT1_Sem3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/poborskaya/Desktop/DZ_C#/HT1_Sem3/obj/Debug/net6.0/HT1_Sem3.AssemblyInfoInputs.cache
+/Users/poborskaya/Desktop/DZ_C#/HT1_Sem3/obj/Debug/net6.0/HT1_Sem3.AssemblyInfo.cs
+/Users/poborskaya/Desktop/DZ_C#/HT1_Sem3/obj/Debug/net6.0/HT1_Sem3.csproj.CoreCompileInputs.cache
+/Users/poborskaya/Desktop/DZ_C#/HT1_Sem3/obj/Debug/net6.0/HT1_Sem3.dll
+/Users/poborskaya/Desktop/DZ_C#/HT1_Sem3/obj/Debug/net6.0/refint/HT1_Sem3.dll
+/Users/poborskaya/Desktop/DZ_C#/HT1_Sem3/obj/Debug/net6.0/HT1_Sem3.pdb
+/Users/poborskaya/Desktop/DZ_C#/HT1_Sem3/obj/Debug/net6.0/HT1_Sem3.genruntimeconfig.cache
+/Users/poborskaya/Desktop/DZ_C#/HT1_Sem3/obj/Debug/net6.0/ref/HT1_Sem3.dll
