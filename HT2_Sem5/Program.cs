@@ -20,7 +20,7 @@ int SumEvenPosition(int size, int min, int max)
         if (i < array.Length - 1) Console.Write($"{array[i]}, ");
         else Console.Write($"{array[i]}"); 
     
-        if (i % 2 != 1)
+        if (i % 2 != 0)
         {
             sumPos = sumPos + array[i];
         }
