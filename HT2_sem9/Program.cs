@@ -28,3 +28,5 @@ if (m > n)
 }
 
 SumNaturalNumbers(m, n, sum = 0);
+
+// Исправление ошибок
