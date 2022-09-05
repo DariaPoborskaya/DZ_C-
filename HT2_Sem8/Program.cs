@@ -33,16 +33,6 @@ void PrintMatrix(int[,] matrix)
     }
 }
 
-// int SumRow(int[,] matrix, int row)
-// {
-//     int sumRow = matrix[row, 0];
-//     for (int j = 1; j < matrix.GetLength(1); j++)
-//     {
-//         sumRow += matrix[row, j];
-//     }
-//     return sumRow;
-// }
-
 
 int[,] array2d = CreateMtrixRndInt(2, 4, 1, 10);
 PrintMatrix(array2d);
