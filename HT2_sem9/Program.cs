@@ -10,7 +10,7 @@ int n = Convert.ToInt32(Console.ReadLine());
 
 int sum = m;
 
-void PrintSum(int num1, int num2, int summ)
+void SumNaturalNumbers(int num1, int num2, int summ)
 {
   summ = summ + num2;
   if (num2 <= num1)
@@ -18,7 +18,7 @@ void PrintSum(int num1, int num2, int summ)
     Console.Write($"Сумма элементов = {summ} ");
     return;
   }
-  PrintSum(num1, num2 - 1, summ);
+  SumNaturalNumbers(num1, num2 - 1, summ);
 }
 
 if (m > n) 
@@ -27,4 +27,4 @@ if (m > n)
   n = sum;
 }
 
-PrintSum(m, n, sum = 0);
+SumNaturalNumbers(m, n, sum = 0);
