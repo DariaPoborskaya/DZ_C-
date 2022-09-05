@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HT1_sem9/1.0.0": {
+        "runtime": {
+          "HT1_sem9.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HT1_sem9/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
